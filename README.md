@@ -4,4 +4,4 @@
 
 
 官方的api文档就在你nessus登录链接加/api就好，访问链接类似于这个
-https://10.10.19.5:8834/api#/overview
+https://xx.xxx.xx.xx:8834/api#/overview
